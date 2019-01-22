@@ -1,3 +1,5 @@
+//Nilay Barde
+// Peyton Sayasith
 import tester.Tester;
 
 // to represent a Deque
